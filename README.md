@@ -1,3 +1,6 @@
+A SPRING BOOT PROJECT
+
+
 Local Skill Barter Network   
 
 A Local Skill Barter Network is essentially a platform where people exchange services without using money. Here’s a deeper look:
