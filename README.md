@@ -1,54 +1,159 @@
-A SPRING BOOT PROJECT
+🚀 Tavaro
+A modern  local skill barter portal built for both job seekers and employers, featuring secure authentication, powerful search, and intuitive UI — all wrapped in a slick dark-themed interface.
 
+🛠️ Tech Stack
+Frontend:
 
-Local Skill Barter Network   
+⚛️ React
 
-A Local Skill Barter Network is essentially a platform where people exchange services without using money. Here’s a deeper look:
+🎨 Tailwind CSS
 
-1. Core Concept
-Users list skills they can offer (e.g., “I can teach guitar,” “I can fix bikes,” “I can help with math homework”).
+💅 Mantine UI
 
-They also list what they need (e.g., “I want to learn cooking”).
+🎯 Redux Toolkit
 
-The system matches people so they can trade skills directly.
+🧩 Tabler Icons
 
-2. Key Features
-User Profiles: Skills offered, skills needed, location.
+Backend:
 
-Matching Algorithm: Finds compatible exchanges.
+🌱 Spring Boot
 
-Credit System (Optional): If direct swap isn’t possible, users earn “credits” by teaching and spend them to learn from others.
+🛡️ JWT Authentication
 
-Scheduling & Messaging: Integrated calendar and chat.
+📬 Nodemailer (for OTP)
 
-Verification: Optional ID check or peer reviews to ensure trust.
+Database:
 
-Local Focus: Map integration to show nearby opportunities.
+🍃 MongoDB
 
-3. Technical Components
-Frontend: React, Vue, or similar.
+✨ Highlighted Features
+📩 OTP Verification via Email
 
-Backend: Node.js, Django, etc., for profile management and matching.
+🔐 JWT-based API Security
 
-Database: Stores users, skills, transactions.
+🔒 Role-based Protected Routes
 
-Matching Logic: Could be a basic keyword match or more advanced (machine learning for better suggestions).
+🧠 Redux State Management
 
-Notifications: Push/email for new matches or messages.
+📱 Fully Responsive
 
-4. Innovative Additions
-Gamify with badges (e.g., “Top Teacher,” “Multi-Skilled”).
+🎥 Smooth Animations
 
-AI-based profile suggestions (“People near you who want to learn Spanish—you can teach them guitar”).
+🔔 Notification System
 
-Group trades (one person teaches yoga to three, earns credits faster).
+🔐 1. User Registration & Authentication
+📧 Register via Email & Password
 
-Hybrid model: allow small paid transactions for those who prefer it.
+🔗 Register/Login via Google & LinkedIn
 
-5. Real-World Challenges
-Trust: How to make users feel safe.
+🔁 Forgot Password / Change Password
 
-Consistency: People may sign up but not commit to exchanges.
+🧠 Secure JWT-based Auth
 
-Quality Control: Preventing poor teaching or fake offers.
+👤 2. User Profile Management
+📄 Create/Update Profile (photo, contact info)
+
+📎 Upload Resume (PDF/DOC)
+
+🏅 Add Skills, Certifications, Work Experience
+
+💼 3. Job Search & Application
+🔍 Search by keyword, location, category
+
+🧰 Filter by company, experience, salary, type
+
+📄 View full job details
+
+📬 Apply with Resume + Cover Letter
+
+📊 Track Application Status
+
+🧑‍💼 4. Employer Functionality
+📢 Post, Update & Delete Jobs
+
+🕶️ Set Visibility (Public/Private)
+
+🗂️ View & Manage Applications
+
+✉️ Contact Applicants via Portal
+
+🔔 5. Notifications & Alerts
+📨 Email alerts for job matches
+
+📬 Application status updates
+
+🧩 6. Additional Features
+💾 Save jobs for later
+
+🏢 Browse Company Profiles
+
+📊 Dashboard: Saved jobs, Applied jobs, Recommendations
+
+🎨 Theme & UI
+🌑 Dark Theme
+css
+Copy
+Edit
+App Background: #2D2D2D
+🎨 Custom Colors
+Mine Shaft:
+
+js
+Copy
+Edit
+'50': '#f6f6f6',
+'100': '#e7e7e7',
+'200': '#d1d1d1',
+'300': '#b0b0b0',
+'400': '#888888',
+'500': '#6d6d6d',
+'600': '#5d5d5d',
+'700': '#4f4f4f',
+'800': '#454545',
+'900': '#3d3d3d',
+'950': '#2d2d2d'
+Bright Sun (Button Color):
+
+js
+Copy
+Edit
+'50': '#fffbeb',
+'100': '#fff3c6',
+'200': '#ffe588',
+'300': '#ffd149',
+'400': '#ffbd20',
+'500': '#f99b07',
+'600': '#dd7302',
+'700': '#b75006',
+'800': '#943c0c',
+'900': '#7a330d',
+'950': '#461902'
+🖋 Font
+Poppins for a modern clean look
+
+📸 Screenshots
+Add screenshots of your app here like homepage, login page, dashboard, etc.
+
+🧠 Installation & Run
+# Clone the repo
+git clone https://github.com/<your-username>/Tavaro.git
+cd Tavaro
+
+# Frontend
+cd client
+npm install
+npm start
+
+# Backend
+cd server
+./mvnw spring-boot:run
+
+💬 Contribute
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+📧 Contact
+For queries or collaboration:
+📮 shashwats500@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-saxena-2021a6252/)
+📁 https://shashwatsaxena.netlify.app/
 
