@@ -132,7 +132,8 @@ Edit
 Poppins for a modern clean look
 
 📸 Screenshots
-Add screenshots of your app here like homepage, login page, dashboard, etc.
+![Screenshot](websiteshots/sp1.png)
+
 
 🧠 Installation & Run
 # Clone the repo
