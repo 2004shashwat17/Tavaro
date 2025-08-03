@@ -150,11 +150,11 @@ cd server
 ./mvnw spring-boot:run
 
 💬 Contribute
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. 
 
 📧 Contact
 For queries or collaboration:
-📮 shashwats500@gmail.com
+📮 shashwats500@gmail.com || shashwatsaxena1980@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-saxena-2021a6252/)
 📁 https://shashwatsaxena.netlify.app/
 
